@@ -1,5 +1,3 @@
-# YeatsLiao
-
 **About me**
 
 - :octocat:
