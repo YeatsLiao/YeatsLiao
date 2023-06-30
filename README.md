@@ -14,7 +14,7 @@
 <a href="https://github.com/YeatsLiao">
   <p>
   <img src="https://stats.justsong.cn/api/leetcode?username=yeats_liao&cn_username=yeats_liao&theme=vue" alt="LeetCode Stats" width="49%" />
-  <img src="https://stats.justsong.cn/api/csdn?id=qq_46207024&theme=vue" alt="Zhihu Stats" width="49%" /> 
+  <img src="https://stats.justsong.cn/api/csdn?id=qq_46207024&theme=vue" alt="CSDN Stats" width="49%" /> 
   </p>
 </a>
 
