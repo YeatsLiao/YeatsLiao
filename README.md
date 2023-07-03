@@ -1,6 +1,7 @@
 **About me**
 
 - :octocat:Welcome
+- Freedom is more important than life, focus is more important than thinking
 
 **Abstract**
 
