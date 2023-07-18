@@ -13,11 +13,6 @@
 - :computer:Vue, JavaScript, TypeScript, HTML, CSS, etc.
 
 
-
-**Contact me**
-
-- :email:yeats_liao@outlook.com
-
 **Abstract**
 
 <a href="https://github.com/YeatsLiao">
