@@ -1,12 +1,8 @@
 **About me**
 
 - :octocat:Welcome
+- Software Development Engineer
 - Freedom is more important than life, focus is more important than thinking
-
-**My skills**
-
-- :computer:Java, Spring, SpringBoot, SpringCloud, Mybatis, Netty, Dubbo, Zookeeper, Kafka, Redis, Mysql, Linux, Docker, etc.
-- :computer:Vue, JavaScript, TypeScript, HTML, CSS, etc.
 
 
 **Abstract**
